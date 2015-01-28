@@ -2,6 +2,7 @@
 * [Bash](#bash)
 * [C](#c)
 * [C#](#c-sharp)
+* [C++](#c-1)
 * [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
 * [Erlang](#erlang)
@@ -12,6 +13,7 @@
 * [HTML / CSS](#html--css)
 * [Java](#java)
 * [Javascript](#javascript)
+* [Language Agnostic](#language-agnostic)
 * [Lisp](#lisp)
 * [MATLAB](#matlab)
 * [Node](#node)
@@ -36,6 +38,10 @@
 
 ### C Sharp
 * [Learn C#](http://www.learncs.org/)
+
+
+### C++
+* [CppKoans](https://github.com/torbjoernk/CppKoans)
 
 
 ### Clojure
@@ -92,6 +98,12 @@
 * [Learn JavaScript](http://www.learn-js.org/)
 * [Learn knockout.js](http://learn.knockoutjs.com)
 * [Try jQuery](http://try.jquery.com/)
+* [Functional Programming in Javascript](http://jhusain.github.io/learnrx/)
+
+
+### Language Agnostic
+* [CodeCombat](http://codecombat.com) - Python, JavaScript, CoffeeScript, Clojure, Lua, Io
+* [Codility](https://codility.com/programmers/)
 
 
 ### Lisp
@@ -134,7 +146,7 @@
 
 ### R
 * [Try R](http://tryr.codeschool.com)
- 
+
 
 ### Racket
 * [Try Racket](http://try-racket.org/)

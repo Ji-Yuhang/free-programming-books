@@ -1,5 +1,6 @@
 ## Índice
 * [C](#c)
+* [C#](#csharp)
 * [Engenharia de software](#engenharia-de-software)
     * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
 * [Git](#git)
@@ -11,9 +12,11 @@
 * [PHP](#php)
 * [LaTeX](#latex)
 * [Python](#python)
+* [RegEx](#regex)
 * [Ruby](#ruby)
 * [Shell Script](#shell)
 * [Lua](#lua)
+* [Vim](#vim)
 
 
 ### C
@@ -21,6 +24,10 @@
 * [Projeto de Algoritmos em C](http://www.ime.usp.br/~pf/algoritmos/).
 * [Introdução ao Curso de C ](http://www.ic.unicamp.br/~mc102/introducao-ao-curso-de-c.html).
 * [O Fantástico Mundo da Linguagem C](https://fiorix.wordpress.com/2014/04/12/livro-sobre-c-e-linux/)
+
+### CSharp
+
+* [C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/)
 
 ### Engenharia de Software
 #### Metodologias de Desenvolvimento de Software
@@ -37,6 +44,7 @@
 
 ### Grunt
 * [Grunt - Voce deveria estar usando](http://tableless.com.br/grunt-voce-deveria-estar-usando/)
+* [Grunt - Por onde começar](http://www.voltsdigital.com.br/labs/gruntjs-por-onde-comecar/)
 
 ### Haskell
 * [Aprender o Haskell será um grande bem para você(tradução em andamento)](https://github.com/taylorrf/learnhaskell)
@@ -75,12 +83,17 @@
 * [O tutorial de Python](http://turing.com.br/pydoc/2.7/tutorial/)
 
 
+### RegEx
+* [Expressões Regulares - Guia de Consulta Rápida](http://aurelio.net/regex/guia/)
+
+
 ### Ruby
 * [Aprenda a Programar](http://aprendaaprogramar.rubyonrails.com.br)
 * [O (comovente) guia de Ruby do Why](http://why.carlosbrando.com/)
 * [Pequeno Livro do Ruby](http://www.sismicro.com.br/ruby/Pequeno-Livro-do-Ruby.php)
 * [Ruby on Rails - Desenv. Ágil para Web com Ruby on Rails](http://www.caelum.com.br/apostila-ruby-on-rails/)
 * [Tutorial de Ruby](http://dl.dropbox.com/u/1482800/eustaquiorangel.com/tutorialruby.pdf)
+* [Conhecendo Ruby](http://howtocode.com.br/ebooks/ruby)
 
 
 
@@ -89,3 +102,10 @@
 
 ### Lua
 * [Manual de Referência de Lua 5.2](http://www.lua.org/manual/5.2/pt/)
+
+
+### Vim
+* [Vim Básico](http://aurelio.net/vim/vim-basico.txt)
+* [Vim Médio](http://aurelio.net/vim/vim-medio.txt)
+* [Vim Avançado](http://aurelio.net/vim/vim-avancado.txt)
+* [Editor VI - Guia de Referência](http://aurelio.net/curso/material/vim-ref.html)
